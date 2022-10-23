@@ -1,5 +1,3 @@
-
-
 if game.PlaceId == 8540346411 then
     wait(3)
     loadstring(game:HttpGet("https://github.com/Vernyfx/rebirthx/blob/main/rebirthx",true))();
@@ -32,4 +30,8 @@ elseif game.PlaceId == 9264596435 then
 elseif game.PlaceId == 10920409126 then
     wait(3)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Vernyfx/Anime-Fusion-Tycoon/main/Anime%20Fusion%20Tycoon",true))();
+
+elseif game.PlaceId == 3956818381 then
+    wait(3)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vernyfx/Ninja-Legends/main/jajaxd",true))();
 end
